@@ -1,5 +1,3 @@
-## About me:
-
 ### 🎓 Education
 - Earned bachelor's (2012) and master's (2018) degrees in Intelligent Technologies in Robotics at ITMO University. 
 - Currently PhD student at ITMO University, specializing in System Analysis, Control and Information Processing of Technical systems.
@@ -20,4 +18,4 @@
 
 ### 🧪 Scientific Career
 - Google Scholar: https://scholar.google.com/citations?user=jo5zE10AAAAJ
-- h-index: 6
+- **h-index**: 6
