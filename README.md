@@ -1,7 +1,5 @@
 ### 🎓 Education
 - Earned bachelor's (2012) and master's (2018) degrees in Intelligent Technologies in Robotics at ITMO University. 
-- Currently PhD student at ITMO University, specializing in System Analysis, Control and Information Processing of Technical systems.
-- PhD thesis: "*Research of multi-agent system of mobile autonomous robotic devices in task of environmental monitoring for smart cities applications*"
 
 ### 💼 Experience
 - Currently a Scientific Administrator at Robonomics Network (since 2021)
