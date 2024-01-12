@@ -6,7 +6,9 @@
 - Worked as a Technical Analyst at Innopolis University and as an Engineer at ITMO University
 - LinkedIn: https://www.linkedin.com/in/ivan-berman/
 
-### 🗃️ Responsibilities: 
+### 🗃️ Responsibilities:
+- Robotic engineering
+- ROS 2 packages development
 - Software requirements analysis
 - Development of design specification
 - Development of projects documentation
