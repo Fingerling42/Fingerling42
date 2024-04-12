@@ -18,4 +18,4 @@
 
 ### 🧪 Scientific Career
 - Google Scholar: https://scholar.google.com/citations?user=jo5zE10AAAAJ
-- **h-index**: 6
+- **h-index**: 7
