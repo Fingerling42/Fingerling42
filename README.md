@@ -2,8 +2,8 @@
 - Earned bachelor's (2012) and master's (2018) degrees in Intelligent Technologies in Robotics at ITMO University. 
 
 ### 💼 Experience
-- Currently a Scientific Administrator at Robonomics Network (since 2021)
-- Worked as a Technical Analyst at Innopolis University and as an Engineer at ITMO University
+- Currently Robotics Researcher at Robonomics Network (since 2021)
+- Worked as Technical Analyst at Innopolis University and as Engineer at ITMO University
 - LinkedIn: https://www.linkedin.com/in/ivan-berman/
 
 ### 🗃️ Responsibilities:
@@ -18,4 +18,4 @@
 
 ### 🧪 Scientific Career
 - Google Scholar: https://scholar.google.com/citations?user=jo5zE10AAAAJ
-- **h-index**: 7
+- **h-index**: 8
